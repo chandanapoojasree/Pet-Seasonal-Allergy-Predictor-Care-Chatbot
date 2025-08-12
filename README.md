@@ -73,7 +73,7 @@ The algorithm uses a *weighted scoring model* considering:
 2. *Risk Analysis Engine* scores each factor and calculates the allergy risk.
 3. *Behaviour Chatbot* tailors its response based on the predicted risk level.
 4. The chatbot *summarizes the form data* with every conversation, so owners always know the context.
-   ---
+   
 
 ## Future Enhancements
 
