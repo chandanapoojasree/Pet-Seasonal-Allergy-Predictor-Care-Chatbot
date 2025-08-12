@@ -1,4 +1,4 @@
-Pet Seasonal Allergy Predictor & Care Chatbot
+## Pet Seasonal Allergy Predictor & Care Chatbot
 
 Making pet care smarter, faster, and stress-free for allergy-prone dogs
 
